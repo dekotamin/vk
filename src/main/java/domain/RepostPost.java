@@ -5,4 +5,3 @@ class RepostPost {
     private boolean canRepost;
     private float messageForRepost;
 }
-

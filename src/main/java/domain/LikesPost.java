@@ -1,6 +1,6 @@
 package domain;
 
-class LikesPost {
+class LikesPost  {
     private int count;
     private boolean canLikes;
 }

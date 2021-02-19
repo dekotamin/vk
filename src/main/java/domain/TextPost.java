@@ -1,6 +1,6 @@
 package domain;
 
-class TextPost {
+class TextPost{
     private String Text;
     private String imageUrl;
     private String nameImage;

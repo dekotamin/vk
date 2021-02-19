@@ -2,7 +2,8 @@ package domain;
 
 class CommentsPost {
     private int count;
-    private boolean canComments;
-    private boolean canWriteComments;
-    private boolean canReadComments;
+    private int canPost;
+    private int canOpen;
+    private int canClose;
+    private int groupsCanPost;
 }
